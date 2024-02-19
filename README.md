@@ -1,3 +1,3 @@
 <div>
-  Alguns Exercicios resolvidos durante o curos de python da Udemy
+  Alguns Exercicios resolvidos durante o curso de python da Udemy
 </div>
